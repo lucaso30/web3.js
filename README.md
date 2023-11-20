@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">   
   <img src="assets/logo/web3js.jpg" width="300" alt="web3.js" />
 </p>
 
